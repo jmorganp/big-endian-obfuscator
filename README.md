@@ -41,11 +41,11 @@ python bigendian.py
 - Little-endian (LE) 📈.
 
 
-Big endian is an order in which the most significant byte (the big end) in a sequence ([word](https://en.wikipedia.org/wiki/Word_(computer_architecture)) is stored first at the lowest/smallest memory address and the least significant byte at the largest.
+> In the Big endian system the most significant byte (the big end) in a sequence ([word](https://en.wikipedia.org/wiki/Word_(computer_architecture) ) is stored first at the lowest/smallest memory address and the least significant byte at the largest.
 
-In contrast, in the Little endian system the least significant byte is stored first at the lowest/smallest memory address and the most significant byte at the largest.
+> In contrast, in the Little endian system the least significant byte is stored first at the lowest/smallest memory address and the most significant byte at the largest.
 
 
 ### Fun fact 😁:
 
-The usage of the terms big endian and little endian were [inspired by](https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm) a passage in Gulliver's Travels (1726) in which the author used them to describe the two oppositions in a dispute on whether to crack a boiled egg by its big end or its little end.
+> The usage of the terms big endian and little endian were [inspired by](https://www.ling.upenn.edu/courses/Spring_2003/ling538/Lecnotes/ADfn1.htm) a passage in *Gulliver's Travels (1726)* in which the author used them to describe the two oppositions in a dispute on whether to crack a boiled egg by its big end or its little end.
