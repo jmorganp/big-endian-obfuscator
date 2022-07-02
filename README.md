@@ -41,7 +41,7 @@ python bigendian.py
 - Little-endian (LE) 📈.
 
 
-> In the Big endian system the most significant byte (the big end) in a sequence ([word](https://en.wikipedia.org/wiki/Word_(computer_architecture)\) is stored first at the lowest/smallest memory address and the least significant byte at the largest.
+> In the Big endian system the most significant byte (the big end) in a sequence ([word](https://en.wikipedia.org/wiki/Word_(computer_architecture))) is stored first at the lowest/smallest memory address and the least significant byte at the largest.
 
 > In contrast, in the Little endian system the least significant byte is stored first at the lowest/smallest memory address and the most significant byte at the largest.
 
