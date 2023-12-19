@@ -4,9 +4,9 @@
  An implementation of the "Big Endian Obfuscation" Algorithm, a javascript obfuscation algorithm which was discovered in the wild being used by threat actors in credential phishing campaigns to effectively evade anti-phishing bots and crawlers' detection.
  Used to obfuscate phishing page source code.
  
-### Obfuscated source sample 📃:
+### Snippet of obuscated HTML code 📃:
 
-![Obfuscated source](https://i.imgur.com/W1s6Y7r.png)
+![Obfuscated source](https://i.imgur.com/ePHL00v.png)
 
 ### Steps taken to replicate 📝:
 
